@@ -26,5 +26,6 @@ public class Main {
             }
         } while (userNumber != sum);
         System.out.println("Votre nombre est parfait");
-        }
     }
+
+}
